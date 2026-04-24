@@ -1,6 +1,6 @@
 # 🚗 Automobile Data Visualization Project  
 ## Exploratory Data Analysis and Visualization  
-###By  Ruel Laranjo
+### By  Ruel Laranjo
 
 
 
